@@ -1,18 +1,19 @@
 # 🚀 My First Streamlit App
-https://my-app-app-ukzktmo8guwu44t3guxybl.streamlit.app/
 
-This is a simple interactive web dashboard built with Python and Streamlit, featuring data filtering and charts.
+A simple interactive web dashboard built with Python and Streamlit, featuring data filtering and charts.
+
+## 🌐 Live Demo
+
+[Open the app](https://my-app-app-ukzktmo8guwu44t3guxybl.streamlit.app/)
 
 ## 🛠️ Technologies Used
+
 - Python
 - Pandas
 - Streamlit
 
-## 🌐 Live Demo
-You can view the live application here: 
-*(لینک استریم‌لیتی که بعداً می‌گیری رو اینجا می‌ذاری)*
-
 ## ⚙️ How to Run Locally
+
 1. Clone the repository:
 ```bash
    git clone https://github.com/arminthon/my-streamlit-app.git
